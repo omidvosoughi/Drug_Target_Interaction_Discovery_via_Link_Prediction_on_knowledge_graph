@@ -1,0 +1,3 @@
+[submodule "KnowledgeGraphEmbedding"]
+	path = KnowledgeGraphEmbedding
+	url = https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding.git
