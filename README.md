@@ -1,4 +1,4 @@
-# Anomaly_Drug-Target_Interaction_Discovery_via_Link_Prediction_on_Knowledge_Graphs
+# Anomaly Drug-Target Interaction Discovery via Link Prediction on Knowledge Graphs
 
 This project explores the utilization of Knowledge Graphs (KGs) to model complex interconnected data in the biomedical domain.Knowledge graphs (KGs) are ideally suited for modeling complex, interconnected data in the real world. They encapsulate facts, for instance, <'DrugA', 'inhibits', 'ProteinX'>. Despite the abundance of such facts, many knowledge graphs struggle with the issue of 'missing links'. These gaps can be identified through the application of knowledge graph embedding (KGE) models. These models generate semantically meaningful embedding vectors from the provided KG, enabling the prediction of potential relationships between entities. Utilizing this discovery mechanism in a biomedical KG has numerous applications, including the identification of alternative drugs for existing ones and the discovery of new drug-protein interactions. These findings are particularly valuable for pharmaceutical companies in the development of new drugs or in the repurposing of existing ones.
 
